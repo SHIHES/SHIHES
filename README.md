@@ -20,7 +20,9 @@
 </div>
 
 ### :man_technologist: About Me :
-I am an Android Developer from Taiwan. <img src="https://media.giphy.com/media/ejzVHSEH9uaRf0wqzY/giphy.gif" width="30"/>
+- I am a rookie of Android Developer from Taiwan <img src="https://media.giphy.com/media/ejzVHSEH9uaRf0wqzY/giphy.gif" width="30"/>
+- Like Non-Caffeinated Drinks, such as H2O <img src="https://media.giphy.com/media/jOwMscBRcOPSllNJt2/giphy.gif" width="30"/>
+- Major in Chemical Engineering <img src="https://media.giphy.com/media/lQOgAzmvtlr218NTlo/giphy.gif" width="30"/>
 
 ### :hammer_and_wrench: Languages and Tools :
 
