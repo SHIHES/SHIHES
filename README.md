@@ -19,11 +19,6 @@
   <img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" width="600" height="300"/>
 </div>
 
-### :man_technologist: About Me :
-- I am a rookie of Android Developer from Taiwan <img src="https://media.giphy.com/media/ejzVHSEH9uaRf0wqzY/giphy.gif" width="30"/>
-- Like Non-Caffeinated Drinks, such as H2O <img src="https://media.giphy.com/media/jOwMscBRcOPSllNJt2/giphy.gif" width="30"/>
-- Major in Chemical Engineering <img src="https://media.giphy.com/media/lQOgAzmvtlr218NTlo/giphy.gif" width="30"/>
-
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
